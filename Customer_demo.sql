@@ -6,7 +6,7 @@ Lname varchar(15),
 Area char(2),
 Phone numeric(10),
 DOB varchar(15),
-Payment numeric(6,2));
+Payment double (6,2));
 
 insert into Customer_demo values
 ('A01','Ivan','Rose','SA','6125467','15-JAN-86','800.50'),
