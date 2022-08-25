@@ -43,7 +43,7 @@ update dept set designation='traniee' where basic_salary='100000';
 update dept set designation='traniee' where designation='Jr. engineer';
 
 #deleting using delete command
-delete from emp where emp_name='akash';
+delete from emp where emp_name='Ritu';
 
 #deleting using truncate command
 truncate table emp;
